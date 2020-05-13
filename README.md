@@ -1,4 +1,4 @@
-# bitconprice
+# Bit coin price getter
 
 APP que retorna o valor do bitcoin
 
